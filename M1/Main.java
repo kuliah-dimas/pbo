@@ -6,7 +6,7 @@ public class Main {
 }
 
 class Mahasiswa {
-    String name = "Dimas Febiyanto";
+    String name = "Dimas Febriyanto";
     String kelas = "2IA21";
     String npm = "50422430";
 
